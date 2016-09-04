@@ -1,19 +1,4 @@
-name: moon
-favicon: null
-layout_spectrum: 0.9452140990179032
 typography_spectrum: 0.2594782372470945
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#FF6700'
@@ -25,4 +10,19 @@ color:
   lightness: 0.2850058116018772
   saturation: 0.7830486674793065
   rhythmicContrast: 0.20447294623591006
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.9452140990179032
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: moon
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 purpose: []
