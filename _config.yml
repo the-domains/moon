@@ -28,8 +28,8 @@ cta:
   bucket: null
   version: null
   domain: null
-favicon: null
 name: moon.wtf
+favicon: null
 analytics:
   twitter: null
   google: null
@@ -38,5 +38,5 @@ opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.2594782372470945
+typography_spectrum: 0.1379928
 layout_spectrum: 0
